@@ -5,12 +5,38 @@ box-sizing:border-box;
 }
 
  :root {
+--gradient: linear-gradient(
+
 }
-<body>
+body {
+
+  font-family: "Abel", sans-serif;
+
 { background-image: linear-gradient(
 to top
 green,
 white,
 );
+
 color:black;
-</body>
+
+display: grid;
+place-content: top;
+
+}
+
+h1 {
+background-image: var
+(--gradient) ; 
+}
+
+
+
+
+
+
+
+
+
+
+
