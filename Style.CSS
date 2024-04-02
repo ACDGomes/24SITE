@@ -11,6 +11,8 @@ box-sizing:border-box;
 body {
 
   font-family: "Abel", sans-serif;
+   font-weight: 400;
+  font-style: normal;
 
 { background-image: linear-gradient(
 to top
@@ -26,6 +28,10 @@ place-content: top;
 }
 
 h1 {
+  font-family: "Abel", sans-serif;
+   font-weight: 400;
+  font-style: normal;
+
 background-image: var
 (--gradient) ; 
 }
