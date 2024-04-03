@@ -13,7 +13,7 @@ body {
    font-weight: 400;
   font-style: normal;
 labe{ 
- color:46, 22, 11;
+ color:#2e160b;
 }
 { background-image: linear-gradient(
 to top)
@@ -21,7 +21,7 @@ rgb(125, 219, 81);
 rgb(252, 255, 253);
 );
 
-color:black;
+color:#2e160b;
 
 display: grid;
 place-content: top;
