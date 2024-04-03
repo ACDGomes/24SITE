@@ -15,10 +15,10 @@ body {
 labe{ 
  color:46, 22, 11;
 }
-{ background-color: linear-gradient(
+{ background-image: linear-gradient(
 to top
-125, 219, 81,
-252, 255, 253,
+rgb(125, 219, 81);
+rgb(252, 255, 253);
 );
 
 color:black;
